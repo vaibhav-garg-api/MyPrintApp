@@ -2,7 +2,7 @@ import java.util.*;
 class AllPermutations {
 	public static void main(String[] args){
 		
-		String s = "Trump Best Prestident";
+		String s = "Vaibhav";
 		System.out.println(permutate(s));
 	}
 	public static ArrayList<String> permutate(String s){
