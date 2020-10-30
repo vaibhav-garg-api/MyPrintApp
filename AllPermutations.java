@@ -1,8 +1,8 @@
 import java.util.*;
 class AllPermutations {
 	public static void main(String[] args){
-		Scanner scan = new Scanner(System.in);
-		String s = scan.next();
+		
+		String s = "Trump Best Prestident";
 		System.out.println(permutate(s));
 	}
 	public static ArrayList<String> permutate(String s){
